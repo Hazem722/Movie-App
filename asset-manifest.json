@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/Movie-App/static/js/main.6c1bd85e.js",
+    "static/media/no_image.jpg": "/Movie-App/static/media/no_image.22d2aa4d1af1a092666a.jpg",
+    "static/media/react-movie-logo.svg": "/Movie-App/static/media/react-movie-logo.42955eb6fcd32d2d228d0634c7cb7804.svg",
+    "static/media/tmdb_logo.svg": "/Movie-App/static/media/tmdb_logo.f15b66321d9915689a58f8372fa02398.svg",
+    "index.html": "/Movie-App/index.html",
+    "static/media/search-icon.svg": "/Movie-App/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
+    "main.6c1bd85e.js.map": "/Movie-App/static/js/main.6c1bd85e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c1bd85e.js"
+  ]
+}
