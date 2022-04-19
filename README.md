@@ -1,6 +1,67 @@
-# Getting Started with Create React App
+# Practice React By Making A Movie app
 
+This project won't work unless you provide it with your own REACT_APP_API_KEY which is a key from The Movie Database (TMDB) and you can get one for free
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## In this project, I learnt :
+
+- React
+- JSX
+- Styled Components
+- React Router
+- State and Props
+- Context
+- CSS
+- API handling
+- Hooks
+- Persist state in SessionStorage
+- Deploy to Netlify
+- And MUCH more ...
+
+## Steps I followed :
+
+1. Bootstrap with CRA
+2. Install dependencies
+3. Setup API Key
+4. Global Styles
+5. Header Component
+6. Header Component - Styles
+7. Home Component
+8. Fetch data from the API for Home Page
+9. Custom hook for Home Page
+10. HeroImage Component
+11. HeroImage Component - Styles
+12. Grid Component
+13. Grid Component - Styles
+14. Thumb Component
+15. Thumb Component - Styles
+16. Spinner Component
+17. SearchBar Component
+18. SearchBar Component - Styles
+19. SearchBar Component - Logic
+20. Button Component
+21. Button Component - Styles
+22. Button Component - Logic
+23. Short about React Router
+24. Routing with React Router
+25. Movie Component - Scaffold
+26. Fetch movie data from the API
+27. BreadCrumb Component
+28. BreadCrumb Component - Styles
+29. MovieInfo Component
+30. MovieInfo Component - Styles
+31. MovieInfoBar Component
+32. MovieInfoBar Component - Styles
+33. Actor Component
+34. Actor Component - Styles
+35. Validate Props with PropTypes
+36. SessionStorage - Home
+37. SessionStorage - Movie
+
+## You can find the tutorial on the link bellow
+
+FreeCodeCamp link : https://youtu.be/nTeuhbP7wdE
+course hosted by Thomas Weibenfalk
 
 ## Available Scripts
 
